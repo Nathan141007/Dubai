@@ -1,0 +1,40 @@
+@font-face {
+    font-family: LemonMilk;
+    src: url(LEMONMILK-Regular.otf);
+}
+@font-face {
+    font-family: League;
+    src: url(league.ttf);
+}
+a{
+    color: black;
+    margin: 50px;
+    text-decoration: none;
+    font-family: LemonMilk;
+    text-align: center;
+}
+a:hover{
+    color: #FF4545;
+}
+c{
+    color: white;
+    margin: 50px;
+    text-decoration: none;
+    font-family: LemonMilk;
+    text-align: center;
+}
+.button1 {
+    width : 15px;
+    height: 15px;
+    background-color: #000000;
+    border-radius: 60%;
+    border: none;
+}
+h1{
+    font-family: LemonMilk;
+    color: #000000;
+}
+footer{
+    background-color: #356227;
+    height: 150px;
+}
